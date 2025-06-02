@@ -36,5 +36,5 @@
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/hemilrajput" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="hemilrajput" height="30" width="40" /></a>
+  <a href="https://in.linkedin.com/in/hemil-rajput-87a040317" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="hemilrajput" height="30" width="40" /></a>
 </p>
