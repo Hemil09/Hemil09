@@ -25,6 +25,7 @@
 ---
 
 ### 📊 GitHub Stats:
+![Hemil09's Stats](https://github-readme-stats.vercel.app/api?username=Hemil09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hemilrajput&show_icons=true&theme=radical" alt="hemilrajput stats"/>
 </p>
